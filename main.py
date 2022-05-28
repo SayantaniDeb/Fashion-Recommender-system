@@ -22,7 +22,7 @@ st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootst
 
 st.markdown("""
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #F7A862;">
-  <a class="navbar-brand" href="#" target="_blank">Snap&Shop</a>
+  <a class="navbar-brand" href="#" target="_blank"><img src="/docs/5.0/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24">Snap&Shop</a>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item active">
